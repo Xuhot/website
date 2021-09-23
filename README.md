@@ -1,9 +1,9 @@
 website xuhot for the futur test branch offre
 
-Web designer: Abel Sutilo
-Twitter: @abelsutilo
-From:Sevilla, Andalucia, Spain
+Web designer: Robin Fernandes
+Linkedin: @robinfernandespro
+From:Toulouse, Occitanie, FRANCE
 
-Web developper: Abel Sutilo
-Twitter: @abelsutilo
-From:Sevilla, Andalucia, Spain
+Web developer: Robin Fernandes
+Twitter: @robinfernandespro
+From:Toulouse, Occitanie, FRANCE
